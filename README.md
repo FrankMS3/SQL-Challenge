@@ -20,6 +20,7 @@ In order to run Bonus.ipynb, you will need to create a file named "config.py" wi
 If you don't have a password, then disregard the previous sentence, but before running be sure to delete "postgres:{password}@" from the create_engine line.  
 Run all the code within Bonus.ipynb in order, it will output two figures.  
   
+---------------------------------------------------------------------------------  
   
 If having errors importing data in pgAdmin:  
 In pgAdmin:  
