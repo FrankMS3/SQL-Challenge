@@ -2,8 +2,8 @@
 Performing Data Modelling, Data Engineering, and Data Analysis of employee data using SQL.  
   
 ERD.png is an image of the Entity-Relationship Diagram of the tables, data is located in .csv files in the "data" folder, queries are located in .sql files in the "Queries" folder.  
-Bonus.ipynb contains script for importing the SQL database into Pandas, creating a histogram of the most common salary ranges for employees, and creating a bar chart of average salary by title.  
-  
+Bonus.ipynb contains script for importing the SQL database into Pandas, creating a histogram of the most common salary ranges for employees, and creating a bar chart of average salary by title. Note that a config.py file will be needed for this section, instructions for this are included below.  
+    
 To get started:  
 Create a database in PostgreSQL named "SQL-Challenge".  
 Run the queries contained within "table_schema.sql" to create the empty tables which data will be imported into.  
